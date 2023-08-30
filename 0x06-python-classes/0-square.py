@@ -2,6 +2,6 @@
 """ Module: Sqaure_Module """
 
 
-class Sqare:
-    """ A class that defines a sqaure """
+class Square:
+    """A class that defines a sqaure"""
     pass
